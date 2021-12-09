@@ -70,5 +70,6 @@ if __name__ == "__main__":
             "gcs": ["smart_open[gcs]"],
             "s3": ["smart_open[s3]"],
             "http": ["smart_open[http]"],
+            "adtof": ["adtof"]
         },
     )
